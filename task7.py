@@ -11,7 +11,6 @@ from math import factorial
 
 
 def factorial_number(num):
-
     for el in count(1):
         if el > num:
             break
